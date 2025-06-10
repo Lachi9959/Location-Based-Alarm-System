@@ -1,0 +1,6 @@
+location-based-alarm/
+├── main.py          # Main script containing the logic
+├── README.md        # Project documentation
+├── LICENSE          # (Optional) License file (e.g., MIT)
+├── config.py        # (Optional) Configuration file
+└── requirements.txt # (Optional) List of dependencies
